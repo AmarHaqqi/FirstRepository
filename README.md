@@ -1,1 +1,1 @@
-Hi my name is Amar.
+Bye. I'm Amar.
